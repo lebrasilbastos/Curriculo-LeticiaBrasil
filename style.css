@@ -4,3 +4,12 @@ body {
   margin: 0;                        /* Remove a margem padrão do navegador */
   padding: 0;                       /* Remove o espaçamento interno padrão */
 }
+
+.container {
+  max-width: 900px;                 /* Largura máxima do currículo = 900px */
+  margin: 40px auto;                /* 40px em cima/baixo + auto nas laterais -> centraliza no meio */
+  background: #fff;                 /* Fundo branco dentro do cartão */
+  padding: 30px;                    /* Espaço interno para afastar o texto da borda */
+  box-shadow: 0 4px 10px rgba(0,0,0,.1); /* Sombra leve embaixo do container */
+  border-radius: 10px;              /* Bordas arredondadas */
+}
