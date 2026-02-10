@@ -1,2 +1,2 @@
 # Curriculo-LeticiaBrasil
-Meu currículo em CSS
+Meu currículo em HTML
