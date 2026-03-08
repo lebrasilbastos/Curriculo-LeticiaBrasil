@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Currículo - Letícia-Brasil</title>
+  <title>Currículo - Letícia Brasil</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -13,31 +14,36 @@
 
   <!-- Cabeçalho -->
   <div class="header">
-    <img src="https://mail.google.com/mail/u/0/?ui=2&ik=4265ec0a21&attid=0.1&permmsgid=msg-f:1859104510188638871&th=19ccddb3ba1ed297&view=fimg&disp=thd&attbid=ANGjdJ-IWXXUT7-hQRyPEB7wTkD3hmhVy8hDkOi-3s2-kGreSbOqgAGlbLW_qFUXjpFmJzFUKUB2jXfwoQyQB8BeYv4DPQen7GMYCSMO10vzJczNrZVmBqBb2fX37S0&ats=2524608000000&sz=w1366-h679&auditContext=forDisplay" alt="Foto de perfil">
+
+    <!-- coloque sua foto dentro da pasta do projeto -->
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=4265ec0a21&attid=0.1&permmsgid=msg-f:1859104510188638871&th=19ccddb3ba1ed297&view=fimg&fur=ip&permmsgid=msg-f:1859104510188638871&sz=s0-l75-ft&attbid=ANGjdJ9BexZmDEz4YMMutGY3yIqGKTGhv073Y4mXJIKjcX6hlenhqDrYQOWVJq--NxB9sjDHSON15xdfHngjgu0efEDtUA7XOo_SRgyt4PNfZkAWBogIdwaH7IcGqfQ&disp=emb&realattid=ii_19ccddaa290c18210211&zw" alt="Foto de perfil">
 
     <h1>Letícia Oliveira Brasil Bastos</h1>
-    <p>Brasil, 10/11/2008 - 17 anos</p>
+    <p>10/11/2008 - 17 anos</p>
     <p>Recife – Pernambuco</p>
     <p>📞 (81) 98575-5253 | ✉ leticiabrasilbastos1011@gmail.com</p>
 
     <p>
-      <a href="https://www.linkedin.com/in/let%C3%ADcia-brasil-7870b93b6/">LinkedIn</a> |
-      <a href="https://github.com/lebrasilbastos">GitHub</a>
+      <a href="https://www.linkedin.com/in/let%C3%ADcia-brasil-7870b93b6/" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/lebrasilbastos" target="_blank">GitHub</a>
     </p>
+
   </div>
 
   <!-- Perfil -->
   <h2>Perfil</h2>
-  <ul>
-    <li>Estudante do ensino médio técnico em Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Possuo inglês intermediário e facilidade para aprender novas ferramentas. Busco minha primeira oportunidade para desenvolver experiência profissional.</li>
-  </ul>
+  <p>
+    Estudante do ensino médio técnico em Desenvolvimento de Sistemas, com interesse
+    em tecnologia e programação. Possuo inglês intermediário e facilidade para
+    aprender novas ferramentas. Busco minha primeira oportunidade para desenvolver
+    experiência profissional na área de tecnologia.
+  </p>
 
   <!-- Formação -->
   <h2>Formação</h2>
   <ul>
-    <li>Ensino Médio Técnico – Desenvolvimento de Sistemas (Senac)</li>
-    <li>Curso de Excel (Prepara Cursos)</li>
-    <li>Curso de Excel (Prepara Cursos)</li>
+    <li>Ensino Médio Técnico – Desenvolvimento de Sistemas | Senac Recife (Cursando)</li>
+    <li>Curso de Excel – Prepara Cursos</li>
   </ul>
 
   <!-- Experiência -->
@@ -49,8 +55,8 @@
   <!-- Projetos -->
   <h2>Projetos</h2>
   <ul>
-    <li><b>Projeto 1</b> – Pequeno site desenvolvido com HTML e CSS.</li>
-    <li><b>Projeto 2</b> – Aplicação simples utilizando lógica de programação.</li>
+    <li><b>Site de Currículo</b> – Página web desenvolvida utilizando HTML e CSS.</li>
+    <li><b>Projetos acadêmicos</b> – Exercícios e aplicações simples desenvolvidas durante o curso técnico.</li>
   </ul>
 
   <!-- Qualificações -->
@@ -59,6 +65,7 @@
     <li>Raciocínio lógico</li>
     <li>Organização</li>
     <li>Facilidade de aprendizado</li>
+    <li>Trabalho em equipe</li>
   </ul>
 
   <!-- Idiomas -->
@@ -69,10 +76,10 @@
   </ul>
 
   <!-- Informações adicionais -->
-  <h2>Informações Adicionais</h2>
+  <h2>Informações adicionais</h2>
   <ul>
     <li>Tecnologias: HTML, CSS, JavaScript (básico)</li>
-    <li>Ferramentas: Pacote Office, GitHub</li>
+    <li>Ferramentas: Pacote Office, GitHub, VS Code</li>
   </ul>
 
 </div>
