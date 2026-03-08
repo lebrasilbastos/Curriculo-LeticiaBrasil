@@ -13,7 +13,7 @@
 
   <!-- Cabeçalho -->
   <div class="header">
-    <img src="LINK_DA_SUA_FOTO" alt="Foto de perfil">
+    <img src="https://mail.google.com/mail/u/0/?ui=2&ik=4265ec0a21&attid=0.1&permmsgid=msg-f:1859104510188638871&th=19ccddb3ba1ed297&view=fimg&disp=thd&attbid=ANGjdJ-IWXXUT7-hQRyPEB7wTkD3hmhVy8hDkOi-3s2-kGreSbOqgAGlbLW_qFUXjpFmJzFUKUB2jXfwoQyQB8BeYv4DPQen7GMYCSMO10vzJczNrZVmBqBb2fX37S0&ats=2524608000000&sz=w1366-h679&auditContext=forDisplay" alt="Foto de perfil">
 
     <h1>Letícia Oliveira Brasil Bastos</h1>
     <p>Brasil, 10/11/2008 - 17 anos</p>
