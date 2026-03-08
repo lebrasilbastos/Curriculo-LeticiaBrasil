@@ -16,7 +16,7 @@
   <div class="header">
 
     <!-- coloque sua foto dentro da pasta do projeto -->
-    <img src="foto.jpg" alt="Foto de perfil">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFItbYkEhjAPQnz47uigoAM9qS6lVm-neY5g&s" alt="Foto de perfil">
 
     <h1>Letícia Oliveira Brasil Bastos</h1>
     <p>10/11/2008 - 17 anos</p>
