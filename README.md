@@ -1,2 +1,81 @@
-# Curriculo-LeticiaBrasil
-Meu currículo em HTML
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Letícia-Brasil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- Cabeçalho -->
+  <div class="header">
+    <img src="LINK_DA_SUA_FOTO" alt="Foto de perfil">
+
+    <h1>Letícia Oliveira Brasil Bastos</h1>
+    <p>Brasil, 10/11/2008 - 17 anos</p>
+    <p>Recife – Pernambuco</p>
+    <p>📞 (81) 98575-5253 | ✉ leticiabrasilbastos1011@gmail.com</p>
+
+    <p>
+      <a href="https://www.linkedin.com/in/let%C3%ADcia-brasil-7870b93b6/">LinkedIn</a> |
+      <a href="https://github.com/lebrasilbastos">GitHub</a>
+    </p>
+  </div>
+
+  <!-- Perfil -->
+  <h2>Perfil</h2>
+  <ul>
+    <li>Estudante do ensino médio técnico em Desenvolvimento de Sistemas, com interesse em tecnologia e programação. Possuo inglês intermediário e facilidade para aprender novas ferramentas. Busco minha primeira oportunidade para desenvolver experiência profissional.</li>
+  </ul>
+
+  <!-- Formação -->
+  <h2>Formação</h2>
+  <ul>
+    <li>Ensino Médio Técnico – Desenvolvimento de Sistemas (Senac)</li>
+    <li>Curso de Excel (Prepara Cursos)</li>
+    <li>Curso de Excel (Prepara Cursos)</li>
+  </ul>
+
+  <!-- Experiência -->
+  <h2>Experiência Profissional</h2>
+  <ul>
+    <li>Buscando primeira oportunidade profissional.</li>
+  </ul>
+
+  <!-- Projetos -->
+  <h2>Projetos</h2>
+  <ul>
+    <li><b>Projeto 1</b> – Pequeno site desenvolvido com HTML e CSS.</li>
+    <li><b>Projeto 2</b> – Aplicação simples utilizando lógica de programação.</li>
+  </ul>
+
+  <!-- Qualificações -->
+  <h2>Qualificações</h2>
+  <ul>
+    <li>Raciocínio lógico</li>
+    <li>Organização</li>
+    <li>Facilidade de aprendizado</li>
+  </ul>
+
+  <!-- Idiomas -->
+  <h2>Idiomas</h2>
+  <ul>
+    <li>Português – Nativo</li>
+    <li>Inglês – Intermediário</li>
+  </ul>
+
+  <!-- Informações adicionais -->
+  <h2>Informações Adicionais</h2>
+  <ul>
+    <li>Tecnologias: HTML, CSS, JavaScript (básico)</li>
+    <li>Ferramentas: Pacote Office, GitHub</li>
+  </ul>
+
+</div>
+
+</body>
+</html>
